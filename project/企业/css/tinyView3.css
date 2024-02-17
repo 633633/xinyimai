@@ -1,0 +1,13 @@
+.svg3{
+    width: 62rem;
+    height: 37rem;
+    background-color: #b4d4ea;
+    box-sizing: border-box;
+    border-radius: 0 0 0 1rem;
+    overflow: visible;
+}
+.tiny-view-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
